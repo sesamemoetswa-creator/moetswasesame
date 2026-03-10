@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid pink;
+}
+</style>
+<body>
+
+<h2>Flower Details Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Flower Name</th>
+    <th>Colour</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Rose</td>
+    <td>Red</td>
+    <td>P150</td>
+  </tr>
+  <tr>
+    <td>Tulip</td>
+    <td>Yellow</td>
+    <td>P180</td>
+  </tr>
+  <tr>
+  <td>Sunflower</td>
+  <td>Yellow</td>
+  <td>P200</td>
+  </tr>
+  <tr>
+  <td>Orchid</td>
+  <td>Purple</td>
+  <td>P210</td>
+</table>
+
+
+
+</body>
+</html>
